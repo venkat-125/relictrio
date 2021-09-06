@@ -1,0 +1,170 @@
+{
+
+    "BannerSection":[
+        {
+            "title":"relictrio",
+            "subtitle":"Improving team efficiency by selecting the best Fit"
+        }
+    ],
+    "IntroSection":[
+        {
+            "heading":"Relictrio established in the year 2015, with the revolutionary goal of bringing world-class offshore IT services at cost-effective prices for global businesses of all sizes."
+        }
+    ],
+
+        "Journey" : [
+            {
+                "title" : "Our Journey",
+                "subtitle" : "Ours is a humble beginning. With time, we built our road to success with our strong workethics"
+            }
+           ],
+
+           "carouselBlock" : [
+            {
+                "imgURL" : "https://secureservercdn.net/160.153.138.71/rpn.c04.myftpupload.com/wp-content/uploads/2020/11/Mask-Group-1.png?time=1622425898",
+                "blockTxt" : "2015",
+                "blockPara" : "We started off as a consulting start-up"
+            },
+            {
+                "imgURL" : "https://secureservercdn.net/160.153.138.71/rpn.c04.myftpupload.com/wp-content/uploads/2020/11/Group-1232.png?time=1622425898",
+                "blockTxt" : "2016",
+                "blockPara" : "Carved out a niche of our own in the remote staffing marketplace"
+            },
+            {
+                "imgURL" : "https://secureservercdn.net/160.153.138.71/rpn.c04.myftpupload.com/wp-content/uploads/2020/11/Mask-Group-1.png?time=1622425898",
+                "blockTxt" : "2018",
+                "blockPara" : "Helped SMEs from USA and UK to hire top-class candidates"
+            },
+            {
+                "imgURL" : "https://secureservercdn.net/160.153.138.71/rpn.c04.myftpupload.com/wp-content/uploads/2020/11/Group-1232.png?time=1622425898",
+                "blockTxt" : "2019",
+                "blockPara" : "We started off as a consulting start-up"
+            },
+            {
+                "imgURL" : "https://secureservercdn.net/160.153.138.71/rpn.c04.myftpupload.com/wp-content/uploads/2020/11/expertise__icon.png?time=1622425898",
+                "blockTxt" : "Flexibility",
+                "blockPara" : "We can quickly scale a development team up or down for you to match the changing needs of your business."
+            }
+        ],
+
+
+        "Who_We_Are":[
+            {
+              "title":"WHO WE ARE",
+              "bigtitle":"Our Objective",
+              "smalltitle":"To ensure that our services enable our esteemed clients to bring in or enhance the efficiency in their business."
+            }
+          ],
+    
+    "OurMission":[
+        {
+            "title":"OUR MISSION",
+            "subtitle":"What we believe",
+            "para":"We have defined our mission to provide best service.",
+            "Right":[
+                {
+                    "number":"1",
+                    "heading":"Successful Results",
+                    "para":"To deliver measurable and successful results that exceeds our customers’ expectations through our innovation approach and strategies"
+                },
+                {
+                    "number":"2",
+                    "heading":"Timely Deliveries",
+                    "para":"To ensure timely delivery of effective and efficient IT solutions using our technical expertise and vast experience."
+                },
+                {
+                    "number":"3",
+                    "heading":"Finding Right Fit",
+                    "para":"To get the right fit for the right job and who fits all the requirements  shared by you."
+                },
+                {
+                    "number":"4",
+                    "heading":"Great Service",
+                    "para":"To provide unmatched services to the clients, for both, outsourced employment and recruitment."
+                }
+            ]
+        }
+    ],
+
+    "OurStrength":[
+        {
+            "title":"Our Strength",
+            "subtitle":"Quality, Persistency, Flexibility, Sincerity, Hard work",
+            "para":"Ours is a  humble beginning. Step-by-step and with time, we paved our way to success with complete conviction on our work ethics. We are different, strong and committed."
+
+        }
+    ],
+
+    "OurVission":[
+        {
+            "title":"Our vision",
+            "subtitle":"Where do we see ourselves",
+            "para":"What we invision for next up coming years",
+            "icons":[
+              {
+                  "text":"To be the leading premier IT Solutions company",
+                  "subtext":" delivering services which helps the clients to optimize their operational efficiency, along with bringing down the operational cost, and ensuring security in the process"
+              },
+              {
+                "text":"To change the perception of recruitment",
+                "subtext":" by using innovative approaches which will delight our clients, candidates, and staff members"
+            },
+            {
+                "text":"To be always committed to the assignments",
+                "subtext":" we undertake and excel in the field and be the favorite of our clients"
+            }
+            ]
+        }
+    ],
+
+    "CoreValues":[
+        {
+            "title":"OUR CORE VALUES",
+            "subtitle":"At Relictrio we are defined by",
+            "icons":[
+                {
+                    "icon":"https://secureservercdn.net/160.153.138.71/rpn.c04.myftpupload.com/wp-content/uploads/2020/11/Group-1480.png?time=1622425898",
+                    "text":"Customer Satisfaction"
+                },
+                {
+                    "icon":"https://secureservercdn.net/160.153.138.71/rpn.c04.myftpupload.com/wp-content/uploads/2020/11/Group-1481.png?time=1622425898",
+                    "text":"Business Development"
+                },
+                {
+                    "icon":"https://secureservercdn.net/160.153.138.71/rpn.c04.myftpupload.com/wp-content/uploads/2020/11/Group-1482.png?time=1622425898",
+                    "text":"Trustworthy"
+                },
+                {
+                    "icon":"https://secureservercdn.net/160.153.138.71/rpn.c04.myftpupload.com/wp-content/uploads/2020/11/Group-1483.png?time=1622425898    ",
+                    "text":"Team Work"
+                },
+                {
+                    "icon":"https://secureservercdn.net/160.153.138.71/rpn.c04.myftpupload.com/wp-content/uploads/2020/11/Group-1485.png?time=1622425898",
+                    "text":"Ownership"
+                },
+                {
+                    "icon":"https://secureservercdn.net/160.153.138.71/rpn.c04.myftpupload.com/wp-content/uploads/2020/11/Group-1484.png?time=1622425898",
+                    "text":"Integrity"
+                }
+            ]
+        }
+    ],
+
+    "Contact":[
+        {
+          "title":"Contact Details"
+        },
+        {
+            "icon":"https://secureservercdn.net/160.153.138.71/rpn.c04.myftpupload.com/wp-content/uploads/2020/11/Path.png?time=1622425898",
+            "text":"+91-6363049704"
+        },
+        {
+            "icon":"https://secureservercdn.net/160.153.138.71/rpn.c04.myftpupload.com/wp-content/uploads/2020/11/Group-14.png?time=1622425898",
+            "text":"contact@relictrio.com"
+        },
+        {
+            "icon":"https://secureservercdn.net/160.153.138.71/rpn.c04.myftpupload.com/wp-content/uploads/2020/11/cursor.png?time=1622425898",
+            "text":"Horamavu Main Road, Bengaluru - 560043, Karnataka, India"
+        }
+    ]
+}

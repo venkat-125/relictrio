@@ -1,0 +1,127 @@
+.MuiTabs-root {
+    display: flex;
+    overflow: hidden;
+    min-height: 48px;
+    background-color: #3C50E0;
+    -webkit-overflow-scrolling: touch;
+
+}
+
+@media only screen and (max-width: 600px) {
+    .MuiTabs-root {
+        display: none;
+    
+    }
+  }
+
+.MuiTab-textColorPrimary.Mui-selected {
+    color: #f8f8f8 !important;
+}
+
+.MuiTab-textColorPrimary {
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    color: #8da4ff !important;
+    text-decoration: none;
+    padding: 15px 0;
+    float: left;
+    text-transform: none;
+}
+
+.MuiTab-wrapper {
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    position: relative;
+    text-transform: none;
+}
+
+.MuiPaper-elevation4 {
+    box-shadow: none !important;
+    border-bottom: 0px solid white;
+}
+
+.MuiButtonBase-root {
+    color: inherit;
+    border-bottom: 1px solid #8DA4FF !important;
+    cursor: pointer;
+    margin: 0;
+    display: inline-flex;
+    outline: 0;
+    padding: 0;
+    position: relative;
+    align-items: center;
+    user-select: none;
+    border-radius: 0;
+    vertical-align: middle;
+    -moz-appearance: none;
+    justify-content: center;
+    text-decoration: none;
+    background-color: transparent;
+    -webkit-appearance: none;
+    -webkit-tap-highlight-color: transparent;
+}
+
+.MuiBox-root-8 {
+    padding: 24px 0px 24px 0px !important;
+}
+
+.table_data{
+    display: flex;
+    justify-content: space-around;
+}
+.tab_left{
+    color: white;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    max-width: 450px;
+}
+ul {
+    list-style: none;
+    margin-left: -40px;
+}
+.details {
+    font-size: 18px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+    letter-spacing: .025em;
+    color: var(--white-color);
+    margin: 15px 0 0;
+    padding-left: 25px;
+    background: url(https://secureservercdn.net/160.153.138.71/rpn.c04.myftpupload.com/wp-content/themes/UXGURUS/images/tick__icon__2.svg) no-repeat left center transparent;
+}
+
+.tab_right{
+    margin-left: 150px;
+}
+
+.tab_img{
+    background: white;
+    box-shadow: 0 8px 12px rgb(46 61 118 / 24%);
+    border-radius: 8px;
+    padding: 10px 20px 10px 55px;
+    font-family: "Gilroy-SemiBold",Helvetica,Arial,Verdana,Tahoma,sans-serif;;
+    font-size: 14px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+    letter-spacing: .025em;
+    color: #00005c;
+    position: relative;
+    margin: 0 0 15px 15px;
+    float: left;
+}
+
+.tab_img img{
+    left: 20px;
+    position: absolute;
+    top: 20px;
+}
+
+.tab_text{
+    font-weight: 600;
+}

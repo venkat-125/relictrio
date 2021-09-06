@@ -1,0 +1,332 @@
+{
+    "MainBanner":[
+        {
+            "head": "Hire Developer Across Technologies",
+            "subhead":"Do you want to extend your team of developers? Just drop a line of your requirements and we will give you an opportunity to hire tech developers that are the best fit for your needs. ",
+            "img":"https://secureservercdn.net/160.153.138.71/rpn.c04.myftpupload.com/wp-content/uploads/2020/11/hireadeveloper__bannerimg.png?time=1622425898"
+         }
+    ],
+
+    "Block":[
+      {
+        "desktopsrcfile": "https://secureservercdn.net/160.153.138.71/rpn.c04.myftpupload.com/wp-content/uploads/2020/11/developer__icon.png?time=1622425898",
+        "heading": "Hire less or more developers",
+        "subHeading": "A fast paced setup to quickly onboard talent with wide pool of expertise"
+    },
+    {
+        "desktopsrcfile": "https://secureservercdn.net/160.153.138.71/rpn.c04.myftpupload.com/wp-content/uploads/2020/11/project__icon.png?time=1622425898",
+        "heading": "Project on track",
+        "subHeading": "You will have total control over your Developer & easy access to your project."
+    },
+    {
+        "desktopsrcfile":"https://secureservercdn.net/160.153.138.71/rpn.c04.myftpupload.com/wp-content/uploads/2020/11/peaks__icon.png?time=1622425898",
+        "heading": "Meet business peaks",
+        "subHeading": "Technology experts to meet business challenges and sudden spike in demand."
+    }
+    ],
+
+    "Details":[
+      {
+        "icon":"https://secureservercdn.net/160.153.138.71/rpn.c04.myftpupload.com/wp-content/uploads/2020/11/developer__icon.png?time=1622425898",
+        "title":"Hire less or more developers",
+        "subtitle":"A fast paced setup to quickly onboard talent with wide pool of expertise"
+      },
+      {
+        "icon":"https://secureservercdn.net/160.153.138.71/rpn.c04.myftpupload.com/wp-content/uploads/2020/11/project__icon.png?time=1622425898",
+        "title":"Project on track",
+        "subtitle":"You will have total control over your Developer & easy access to your project."
+      },
+      {
+        "icon":"https://secureservercdn.net/160.153.138.71/rpn.c04.myftpupload.com/wp-content/uploads/2020/11/peaks__icon.png?time=1622425898",
+        "title":"Meet business peaks",
+        "subtitle":"Technology experts to meet business challenges and sudden spike in demand."
+      }
+    ],
+
+    "Benifits":[
+        {
+            "hiring":"Benefits of Hiring",
+            "developer":"Why to Hire Developer?",
+           "icondata":[
+            {
+                "img": "https://secureservercdn.net/160.153.138.71/rpn.c04.myftpupload.com/wp-content/uploads/2020/11/trust-skill__icon.png?time=1622425898",
+                   "iconheading":"Trusted & Skilled Developers",
+                 "iconsubheading":"Hire top-notch and highly skilled developers offshore to reduce the costs and time of delivery."
+              },
+            {
+                "img": "https://secureservercdn.net/160.153.138.71/rpn.c04.myftpupload.com/wp-content/uploads/2020/11/recruitment__icon.png?time=1622425898",
+                "iconheading":"No recruitment headache",
+                "iconsubheading":"Hiring will help you step up and get the work done minus the headache of looking after the accounts, renting office space, thinking of overheads etc."
+              },
+              {
+                "img": "https://secureservercdn.net/160.153.138.71/rpn.c04.myftpupload.com/wp-content/uploads/2020/11/integrity__icon.png?time=1622425898",
+                "iconheading":"Integrity & Transparency",
+                "iconsubheading":"Your information is safe with us. We showcase integrity and transparency in all our dealings. Security will never be a concern."
+              }
+              
+           ]
+          }
+    ],
+
+
+    "whyus":[
+        {
+            "heading":"WHY US?",
+            "subheading":"What makes us different?",
+            "text":"We offer you the flexibility of hiring developers on a monthly, part-time, hourly or fixed cost basis and as per your requirement, irrespective of the time zone differences.",
+            "button":[
+                {
+                    "hirenow":"Hire Now"
+                }
+            ],
+            "icondata":[
+                {
+                  "icon":"https://secureservercdn.net/160.153.138.71/rpn.c04.myftpupload.com/wp-content/uploads/2020/11/quality__icon__2.png?time=1622425898",
+                  "title":"Quality within cost",
+                  "subtitle":"Ever-increasing thirst for learning and experimenting creates quality work."
+                },
+                {
+                    "icon":"https://secureservercdn.net/160.153.138.71/rpn.c04.myftpupload.com/wp-content/uploads/2020/11/support__icon.png?time=1622425898",
+                    "title":"Support & Maintenance",
+                    "subtitle":"Get extended support from our development team & always keep a smile on your face!"
+                  },
+                  {
+                    "icon":"https://secureservercdn.net/160.153.138.71/rpn.c04.myftpupload.com/wp-content/uploads/2020/11/ontime__icon.png?time=1622425898",
+                    "title":"On-time Delivery",
+                    "subtitle":"Our expertise has made us capable of delivering projects on-time without any discrepancies or flaws."
+                  },
+                  {
+                    "icon":"https://secureservercdn.net/160.153.138.71/rpn.c04.myftpupload.com/wp-content/uploads/2020/11/cost__icon.png?time=1622425898",
+                    "title":"Cost Effective Models",
+                    "subtitle":"Hire dedicated developers and save 60% capital on Project Design and Development."
+                  }
+            ]
+        }
+    ],
+
+
+    "furthureDetails":[
+      {
+        "title":"WANT TO KNOW FURTHER DETAILS?",
+        "bigtitle":"Talk to expert!",
+        "smalltitle":"We cater to all your needs, whether its about full-time recruitments, partnership or ongoing management support.",
+        "button":[
+            {
+             "btn":"Get in Touch"
+            }
+        ]
+      }
+    ],
+
+    "cards":[
+        {
+          "FirstCard":[
+              {
+                "title":"LONG TERM ENGAGEMENT?",
+                "subtitle":"Offshore Center!",
+                "List":[
+                    { "text":"Unmatched expertise" },
+                    { "text":"Complete Transparency and control" },
+                    { "text":"Ready to use infrastructure" },
+                    { "text":"Long run engagement" },
+                    { "text":"Zero Recruitment Fee" },
+                    { "text":"Reliable project management" }
+                ],
+                "button":[
+                    {
+                     "request":"Raise Request",
+                     "more":"Know More"
+                    }
+                ]
+              }
+          ],
+
+          "SecondCard":[
+            {
+              "title":"BUILD YOUR OWN IN HOUSE TEAM",
+              "subtitle":"Recruit Candidates!",
+              "List":[
+                  { "text":"Get quality resources" },
+                  { "text":"Flexible engagement models" },
+                  { "text":"Direct access to resources" },
+                  { "text":"Collaborative approach" },
+                  { "text":"No hidden charges" },
+                  { "text":"Efficient communication" }
+              ],
+              "button":[
+                  {
+                   "request":"Recruit Now",
+                   "more":"Know More"
+                  }
+              ]
+            }
+        ]
+
+        }
+    ],
+
+    "Blog":[
+      {
+        "title" : "LATEST BLOGS",
+        "subtitle" : "Our recent articles for your to read"
+    }
+   ],
+
+   "carouselBlock" : [
+    {
+        "imgURL" : "https://secureservercdn.net/160.153.138.71/rpn.c04.myftpupload.com/wp-content/uploads/2021/04/food.jpeg",
+        "blockTxt" : "Mobile Application",
+        "blockPara" : "Why Should You Invest in Restaurant App Development?",
+        "txt":"Written By",
+        "authorName":"Sans"
+    },
+    {
+        "imgURL" : "https://secureservercdn.net/160.153.138.71/rpn.c04.myftpupload.com/wp-content/uploads/2021/04/opt.jpeg",
+        "blockTxt" : "ODC",
+        "blockPara" : "Why Should One opt for the ODC Model? ",
+        "txt":"Written By",
+        "authorName":"Sans"
+    },
+    {
+        "imgURL" : "https://secureservercdn.net/160.153.138.71/rpn.c04.myftpupload.com/wp-content/uploads/2021/04/skills.jpeg",
+        "blockTxt" : "Hire Developer",
+        "blockPara" : "Essential Skills Needed to be A Good Front End Developer",
+        "txt":"Written By",
+        "authorName":"Sans"
+    },
+    {
+        "imgURL" : "https://secureservercdn.net/160.153.138.71/rpn.c04.myftpupload.com/wp-content/uploads/2021/04/time.jpeg",
+        "blockTxt" : "Global requirement",
+        "blockPara" : "Top Benefits of a Recruitment Agency for Your Business",
+        "txt":"Written By",
+        "authorName":"Sans"
+    },
+    {
+        "imgURL" : "https://secureservercdn.net/160.153.138.71/rpn.c04.myftpupload.com/wp-content/uploads/2021/04/piggy.jpeg",
+        "blockTxt" : "ODC",
+        "blockPara" : "What Are the Benefits of Offshore Development Center?",
+        "txt":"Written By",
+        "authorName":"Relictrio Team"
+    }
+    ],
+
+
+  "gitinTouch":[
+       {
+         "leftData":[
+           {
+             "title":"Let’s get in touch",
+             "subtitle":"Our team is happy to answer your sales questions. Fill out the form and we’ll be in touch as soon as possible."
+           }
+         ],
+         "FormData":[
+           {
+             "name":"Name",
+             "Email":"Email",
+             "Location":"Location",
+             "MobileNumber":"Mobile Number",
+             "YourMessage":"Your Message"
+           }
+         ],
+         "button":[
+           {
+             "btn":"Send"
+           }
+         ]
+       }
+  ],
+    
+
+  "footer":[
+    {
+       "firstcol":[
+        {
+          "head":"UXG",
+          "address":"Horamavu Main Road, Bengaluru - 560043, Karnataka, India"
+        }  
+       ],
+       "secondcol":[
+        {
+          "head":"Contact us",
+          "secondlist":[
+            {
+              "icon":"https://secureservercdn.net/160.153.138.71/rpn.c04.myftpupload.com/wp-content/themes/UXGURUS/images/call__icon.svg",
+              "mobile":"+91-9000000000"
+            },
+            {
+              "icon":"https://secureservercdn.net/160.153.138.71/rpn.c04.myftpupload.com/wp-content/themes/UXGURUS/images/mail__icon.svg",
+              "contact":"contact@uxg.com"
+            }
+          ] 
+        }
+       ],
+       "thirdcol":[
+        {
+          "head":"Follow us",
+          "thirdlist":[
+            {
+              "icon":"https://secureservercdn.net/160.153.138.71/rpn.c04.myftpupload.com/wp-content/themes/UXGURUS/images/linkedin__icon.svg",
+              "socilamedia":"LinkedIn"
+            },
+            {
+              "icon":"https://secureservercdn.net/160.153.138.71/rpn.c04.myftpupload.com/wp-content/themes/UXGURUS/images/twitter__icon.svg",
+              "socilamedia":"Twitter"
+            },
+            {
+              "icon":"https://secureservercdn.net/160.153.138.71/rpn.c04.myftpupload.com/wp-content/themes/UXGURUS/images/fb__icon.svg",
+              "socilamedia":"Facebook"
+            },
+            {
+              "icon":"https://secureservercdn.net/160.153.138.71/rpn.c04.myftpupload.com/wp-content/themes/UXGURUS/images/insta__icon.svg",
+              "socilamedia":"Instagram"
+            }
+          ]
+        }
+       ],
+       "forthcol":[
+        {
+          "head":"Quick Links",
+          "forthlist":[
+            { "links":"Home" },
+            { "links":"Recruitment" },
+            { "links":"ODC Services" },
+            { "links":"Hire a Developer" },
+            { "links":"Blogs" },
+            { "links":"Career" },
+            { "links":"About us" }
+          ]
+        }
+       ],
+       
+        "bottomfooter":[
+          { "copyRights":"Copyright @ relictrio 2015-2020" },
+          { "Terms": "Terms & Conditions" },
+          { "Privacy":"Privacy Policy" }
+        ]
+      
+
+      }
+
+    
+      
+]
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+     
+     
+    

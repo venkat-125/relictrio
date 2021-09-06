@@ -1,0 +1,110 @@
+{ "careers":[
+    {
+    "title":"Careers India & Abroad",
+    "subtitle":"Let's Work Together and Explore Opportunities",
+    "Requirements":[
+        {
+            "img":"https://secureservercdn.net/160.153.138.71/rpn.c04.myftpupload.com/wp-content/uploads/2021/01/programming-1.png?time=1622425898",
+            "title":"UI Developer -Freshers",
+            "des":"Description",
+            "desText":"UI Developer Lead, who is motivated to combine the art of design with the art of programming.",
+            "skills":"Skills ",
+            "skillsText":"HTML, CSS, Javascript, jQuery, Basics in AngularJS or ReactJS",
+            "location":"Location",
+            "locationText":"Bangalore, Gurgaon , Noida",
+            "btn":"Apply Now"
+        },
+        {
+            "img":"https://secureservercdn.net/160.153.138.71/rpn.c04.myftpupload.com/wp-content/uploads/2021/01/Angular-1526190252.png?time=1622425898",
+            "title":"AngularJS Developer",
+            "des":"Description",
+            "desText":"Angular Developer Lead, who is motivated to combine the art of design with the art of programming.",
+            "skills":"Skills ",
+            "skillsText":"HTML, CSS, Javascript, jQuery, AngularJS 2/3/4/5/6/7/8",
+            "location":"Location",
+            "locationText":"Bangalore",
+            "btn":"Apply Now"
+        },
+        {
+            "img":"https://secureservercdn.net/160.153.138.71/rpn.c04.myftpupload.com/wp-content/uploads/2021/01/communityIcon_mzd71lz7pqn41.png?time=1622425898",
+            "title":"ReactJS Developer",
+            "des":"Description",
+            "desText":"ReactJS Developer Lead, who is motivated to combine the art of design with the art of programming.",
+            "skills":"Skills ",
+            "skillsText":"HTML, CSS, Javascript, jQuery, ReactJS, Redux, Webservices, NodeJS(basics)",
+            "location":"Location",
+            "locationText":"Bangalore, Pune",
+            "btn":"Apply Now"
+        },
+        {
+            "img":"https://secureservercdn.net/160.153.138.71/rpn.c04.myftpupload.com/wp-content/uploads/2021/01/redux.png?time=1622425898",
+            "title":"React Native Developer",
+            "des":"Description",
+            "desText":"A self-driven and highly motivated App Development Expert who can settle for nothing but the best on user experience and performance.",
+            "skills":"Skills",
+            "skillsText":"Mobile application development, HTML, CSS, Javascript, jQuery, ReactJS, Webservices, Build tools, Ionic Framework",
+            "location":"Location",
+            "locationText":"Bangalore, Pune",
+            "btn":"Apply Now"
+        },
+        {
+            "img":"https://secureservercdn.net/160.153.138.71/rpn.c04.myftpupload.com/wp-content/uploads/2021/01/images.png?time=1622425898",
+            "title":"UX Designer",
+            "des":"Description",
+            "desText":"A passionate designer and a self-starter, comfortable with tackling all of the UX steps from user research, exploration and concepts.",
+            "skills":"Skills ",
+            "skillsText":"Wireframing, Design solutions. User stories, UX Research, Usability testing, client interactions, Strong communication, and presentation skills",
+            "location":"Location",
+            "locationText":"Bangalore",
+            "btn":"Apply Now"
+        },
+        {
+            "img":"https://secureservercdn.net/160.153.138.71/rpn.c04.myftpupload.com/wp-content/uploads/2021/01/tips_btn@2x.png?time=1622425898",
+            "title":"Visual/UI Designer",
+            "des":"Description",
+            "desText":"Visual/UI Designer Lead, who is motivated to combine the art of design with the art of programming.",
+            "skills":"Skills",
+            "skillsText":"Creative designs, User interface designs, Photoshop/Illustrator/Sketch, Must have a good eye for aesthetics: layout, color theory, and typography.",
+            "location":"Location",
+            "locationText":"Bangalore",
+            "btn":"Apply Now"
+        },
+        {
+            "img":"https://secureservercdn.net/160.153.138.71/rpn.c04.myftpupload.com/wp-content/uploads/2021/01/node-512.png?time=1622425898",
+            "title":"NodeJS Developer",
+            "des":"Description",
+            "desText":"Would know how to be an inspiring team-player.",
+            "skills":"Skills",
+            "skillsText":"NodeJS, RESTful API, MVC, ExpressJS/ReactJS/AngularJS, MySQL/MongoDB, Front-end technologies",
+            "location":"Location",
+            "locationText":"Bangalore, Gurgaon , Noida",
+            "btn":"Apply Now"
+        },
+        {
+            "img":"https://secureservercdn.net/160.153.138.71/rpn.c04.myftpupload.com/wp-content/uploads/2021/01/android-flat.png?time=1622425898",
+            "title":"Android Developer",
+            "des":"Description",
+            "desText":"Expert/knowledge in Android Build system, Memory usage and profiling of Android applications and services.",
+            "skills":"Skills ",
+            "skillsText":"UI skills, Android SDK, Problem-solving skills, Analytical skills, Java, Restful API's",
+            "location":"Location",
+            "locationText":"Bangalore",
+            "btn":"Apply Now"
+        },
+        {
+            "img":"https://secureservercdn.net/160.153.138.71/rpn.c04.myftpupload.com/wp-content/uploads/2021/01/ios_button_big.png?time=1622425898",
+            "title":"IOS Developer",
+            "des":"Description",
+            "desText":"IOS developer responsible for the development and maintenance of applications including mobile phones and tablet computers.",
+            "skills":"Skills ",
+            "skillsText":"IOS Framework, Analytical skills, Web technologies, RESTful API's",
+            "location":"Location",
+            "locationText":"Bangalore",
+            "btn":"Apply Now"
+        }
+        
+    ]
+}
+]
+
+}

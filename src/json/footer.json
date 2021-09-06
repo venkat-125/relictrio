@@ -1,0 +1,86 @@
+{
+    "footerBlock" : [
+        {
+            "imgURL" : "https://secureservercdn.net/160.153.138.71/rpn.c04.myftpupload.com/wp-content/uploads/2020/12/Relictrio_logo@2x.png?time=1622425898",
+            "addressBlock" : "#32, 4th Floor, 6th Main,  Horamavu Main Road, Easy Bazar, Banaswadi,  Bengaluru, Karnataka (560 043)"
+        }
+    ],
+
+    "contactBlock" : [
+        {
+            "subHeading" : "Contact us"
+        }
+    ],
+
+    "contactBlock_info" : [
+        {
+            "iconURL" : "https://secureservercdn.net/160.153.138.71/rpn.c04.myftpupload.com/wp-content/themes/UXGURUS/images/call__icon.svg",
+            "link" : "+91-9892834546"
+        },
+        {
+            "iconURL" : "https://secureservercdn.net/160.153.138.71/rpn.c04.myftpupload.com/wp-content/themes/UXGURUS/images/mail__icon.svg",
+            "link" : "yourmailid@gmail.com"
+        }
+    ] ,
+    "followUsBlock" : [
+        {
+            "subHeading" : "Follow us"
+        }
+    ],
+
+    "followUsBlock_info" : [
+        {
+            "iconURL" : "https://secureservercdn.net/160.153.138.71/rpn.c04.myftpupload.com/wp-content/themes/UXGURUS/images/linkedin__icon.svg",
+            "link" : "LinkedIn"
+        },
+        {
+            "iconURL" : "https://secureservercdn.net/160.153.138.71/rpn.c04.myftpupload.com/wp-content/themes/UXGURUS/images/twitter__icon.svg",
+            "link" : "Twitter"
+        },
+        {
+            "iconURL" : "https://secureservercdn.net/160.153.138.71/rpn.c04.myftpupload.com/wp-content/themes/UXGURUS/images/fb__icon.svg",
+            "link" : "Facebook"
+        },
+        {
+            "iconURL" : "https://secureservercdn.net/160.153.138.71/rpn.c04.myftpupload.com/wp-content/themes/UXGURUS/images/insta__icon.svg",
+            "link" : "Instagram"
+        }
+    ],
+    "quickBlock" : [
+        {
+            "subHeading" : "Quick Links"
+        }
+    ],
+    "quickBlock_info__left" : [
+        {
+            "link" : "Home"
+        },
+        {
+            "link" : "Recruitment"
+        },
+        {
+            "link" : "ODC Services"
+        },
+        {
+            "link" : "Hire a Developer"
+        }
+    ],
+    "quickBlock_info__right" : [
+        {
+            "link" : "Blogs"
+        },
+        {
+            "link" : "Career"
+        },
+        {
+            "link" : "About us"
+        }
+    ],
+    "bottomBlock" : [
+        {
+            "info1" : "Copyright @ UXGURUS 2015-2020",
+            "info2" : "Terms & Conditions",
+            "info3" : "Privacy Policy"
+        }
+    ]
+}
